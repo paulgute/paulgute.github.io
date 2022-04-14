@@ -14,7 +14,7 @@ Education
 * B.S. in Computer Science with First Class Honors (Minor in Maths), The Chinese University of Hong Kong, 2018
 * Ph.D in Computer Science, National University of Singapore, 2023 (expected)
 
-Work experience
+Experience
 ======
 * Summer 2017: Student Intern
   * The Chinese University of Hong Kong
@@ -22,9 +22,9 @@ Work experience
   * Supervisor: Professor James Cheng
 
 * Summer 2016: Student Intern
-* The Chinese University of Hong Kong
-* Implementing dimensionality reduction algorithms under distributed systems.
-* Supervisor: Professor James Cheng
+  * The Chinese University of Hong Kong
+  * Implementing dimensionality reduction algorithms under distributed systems.
+  * Supervisor: Professor James Cheng
 
 
 Publications
