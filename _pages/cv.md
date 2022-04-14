@@ -11,49 +11,49 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science with First Class Honors (Minor in Maths), The Chinese University of Hong Kong, 2018
+* Ph.D in Computer Science, National University of Singapore, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Student Intern
+  * The Chinese University of Hong Kong
+  * Implementing hashing algorithms for similarity search under distributed systems.
+  * Supervisor: Professor James Cheng
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2016: Student Intern
+* The Chinese University of Hong Kong
+* Implementing dimensionality reduction algorithms under distributed systems.
+* Supervisor: Professor James Cheng
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+- Ergute Bao, Yin Yang, Xiaokui Xiao, and Bolin Ding.\
+*CGM: An Enhanced Mechanism for Streaming Data Collection with Local Differential Privacy.*\
+Proceedings of the VLDB Endowment (PVLDB), 2021, 14(11), page 2258-2270. (Acceptance rate: 23%)
+
+
+- Ergute Bao, Xiaokui Xiao, Jun Zhao, Dongping Zhang and Bolin Ding.\
+*Synthetic Data Generation with Differential Privacy via Bayesian Networks.*\
+Journal of Privacy and Confidentiality (JPC), 2021, 11(3).
+
+Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- NUS School of Computing Research Achievement Award, 2021.
+
+- First place in the 2020 NIST Differential Privacy Temporal Map Challenge.\
+See https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2020-differential
+
+- Third place in the 2018 NIST Differential Privacy Synthetic Data Challenge.\
+See https://www.nist.gov/ctl/pscr/team-privbayes
+
+- Dean's List in 2015/16, 16/17, 17/18 by CUHK
+
+- Cheng Foundation Scholarships by CUHK
+
+- ELITE Scholarships by CUHK.
+
+- Engineering Faculty Alumni Association Scholarships by CUHK.
+
+- George Lam Tse Cheung Scholarships, awarded by Lee Woo Sing College, CUHK.
