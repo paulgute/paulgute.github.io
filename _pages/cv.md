@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science with First Class Honors (Minor in Maths), The Chinese University of Hong Kong, 2018
 * Ph.D in Computer Science, National University of Singapore, 2023 (expected)
+* B.S. in Computer Science with First Class Honors (Minor in Maths), The Chinese University of Hong Kong, 2018
 
 Experience
 ======
