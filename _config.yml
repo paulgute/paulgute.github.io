@@ -78,44 +78,44 @@ analytics:
     tracking_id          :
 
 
-# # Site Author
-# author:
-#   name             : "Your Sidebar Name"
-#   avatar           : "profile.png"
-#   bio              : "Your biography for the left-hand sidebar"
-#   location         : "Location"
-#   employer         :
-#   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#   googlescholar    : "http://yourfullgooglescholarurl.com"
-#   email            :
-#   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-#   uri              :
-#   bitbucket        :
-#   codepen          :
-#   dribbble         :
-#   flickr           :
-#   facebook         :
-#   foursquare       :
-#   github           : "academicpages"
-#   google_plus      :
-#   keybase          :
-#   instagram        :
-#   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-#   lastfm           :
-#   linkedin         :
-#   orcid            : "http://orcid.org/yourorcidurl"
-#   pinterest        :
-#   soundcloud       :
-#   stackoverflow    : # http://stackoverflow.com/users/123456/username
-#   steam            :
-#   tumblr           :
-#   twitter          : "replacethistwitterhandle"
-#   vine             :
-#   weibo            :
-#   xing             :
-#   youtube          :
-#   wikipedia        :
-#
+# Site Author
+author:
+  name             : "Bao Ergute"
+  # avatar           : "profile.png"
+  bio              : "PhD candidate in National Univeristy of Singapore"
+  location         : "Singapore"
+  employer         :
+  pubmed           :
+  googlescholar    :
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
 
 # Reading Files
 include:
@@ -173,20 +173,20 @@ kramdown:
   enable_coderay: false
 
 
-# # Collections
-# collections:
-#   teaching:
-#     output: true
-#     permalink: /:collection/:path/
-#   publications:
-#     output: true
-#     permalink: /:collection/:path/
-#   portfolio:
-#     output: true
-#     permalink: /:collection/:path/
-#   talks:
-#     output: true
-#     permalink: /:collection/:path/
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
