@@ -12,7 +12,7 @@ Bao Ergute (Bob) is currently a PhD candidate in National University of Singapor
 
 Research Interest
 ======
-Differential Privacy with applications in Data Analysis and Federated Learning
+Privacy-preserving data analysis
 
 Publications
 ======
