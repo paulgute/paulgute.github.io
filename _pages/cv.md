@@ -26,7 +26,7 @@ Experience
   * Supervisor: Professor James Cheng
 
 
-Publications
+<!-- Publications
 ======
 - Ergute Bao, Yin Yang, Xiaokui Xiao, and Bolin Ding.\
 *CGM: An Enhanced Mechanism for Streaming Data Collection with Local Differential Privacy.*\
@@ -35,7 +35,7 @@ Proceedings of the VLDB Endowment (PVLDB), 2021, 14(11), page 2258-2270. (Accept
 
 - Ergute Bao, Xiaokui Xiao, Jun Zhao, Dongping Zhang and Bolin Ding.\
 *Synthetic Data Generation with Differential Privacy via Bayesian Networks.*\
-Journal of Privacy and Confidentiality (JPC), 2021, 11(3).
+Journal of Privacy and Confidentiality (JPC), 2021, 11(3). -->
 
 Awards
 ======
