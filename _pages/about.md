@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bao Ergute is currently a PhD candidate in National University of Singapore (NUS), supervised by Professor Xiaokui Xiao. He completed his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018.
+Bao Ergute (Bob) is currently a PhD candidate in National University of Singapore (NUS), supervised by Professor Xiaokui Xiao. Bob completed his B.Sc with First Class Honors in Computer Science from the Chinese University of Hong Kong (CUHK) in 2018.
 
 Research Interest
 ======
