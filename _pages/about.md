@@ -18,12 +18,16 @@ Publications
 ======
 - Ergute Bao, Yin Yang, Xiaokui Xiao, and Bolin Ding.\
 *CGM: An Enhanced Mechanism for Streaming Data Collection with Local Differential Privacy.*\
-Proceedings of the VLDB Endowment (PVLDB), 2021, 14(11), page 2258-2270. (Acceptance rate: 23%)
+47th International Conference on Very Large Data Bases (VLDB), 2021. (Acceptance rate: 23\%)
+[link](http://vldb.org/pvldb/vol14/p2258-bao.pdf)
+<a href="http://vldb.org/pvldb/vol14/p2258-bao.pdf">link</a>
 
 
 - Ergute Bao, Xiaokui Xiao, Jun Zhao, Dongping Zhang and Bolin Ding.\
 *Synthetic Data Generation with Differential Privacy via Bayesian Networks.*\
 Journal of Privacy and Confidentiality (JPC), 2021, 11(3).
+[link](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723)
+<a href="https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723">link</a>
 
 Awards
 ------
