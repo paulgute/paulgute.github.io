@@ -41,11 +41,11 @@ Awards
 ======
 - NUS School of Computing Research Achievement Award, 2021.
 
-- First place in the 2020 NIST Differential Privacy Temporal Map Challenge.\
-See https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2020-differential
+- First place in the 2020 NIST Differential Privacy Temporal Map Challenge.
 
-- Third place in the 2018 NIST Differential Privacy Synthetic Data Challenge.\
-See https://www.nist.gov/ctl/pscr/team-privbayes
+- Second place in the 2021 NIST DeID2 - A Better Meter Stick for Differential Privacy
+
+- Third place in the 2018 NIST Differential Privacy Synthetic Data Challenge.
 
 - Dean's List in 2015/16, 16/17, 17/18 by CUHK
 
