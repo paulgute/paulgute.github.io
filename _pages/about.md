@@ -18,9 +18,10 @@ Publications
 ======
 - **Ergute Bao**, Yin Yang, Xiaokui Xiao, and Bolin Ding.\
 *CGM: An Enhanced Mechanism for Streaming Data Collection with Local Differential Privacy.*\
-47th International Conference on Very Large Data Bases (VLDB), 2021. (Acceptance rate: 23%)
+47th International Conference on Very Large Data Bases (VLDB), 2021.
 [pdf](http://vldb.org/pvldb/vol14/p2258-bao.pdf)
 <!-- <a href="http://vldb.org/pvldb/vol14/p2258-bao.pdf">link</a> -->
+<!-- (Acceptance rate: 23%) -->
 
 
 - **Ergute Bao**, Xiaokui Xiao, Jun Zhao, Dongping Zhang and Bolin Ding.\
