@@ -27,6 +27,10 @@ Publications
 *Synthetic Data Generation with Differential Privacy via Bayesian Networks.*\
 Journal of Privacy and Confidentiality (JPC), 2021, 11(3).
 [pdf](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723)
+
+- **Ergute Bao**, Yizheng Zhu, Xiaokui Xiao, Yin Yang, Beng Chin Ooi, Benjamin Hong Meng Tan, Khin Mi Mi Aung.\
+*Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Differential Privacy.*\
+48th International Conference on Very Large Data Bases (VLDB), 2022, to appear.
 <!-- <a href="https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723">link</a> -->
 
 Awards
