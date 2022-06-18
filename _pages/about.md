@@ -43,7 +43,7 @@ Awards
 - First place in the [2020 NIST Differential Privacy Temporal Map Challenge](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2020-differential).\
 Media: [NUS SoC](https://www.comp.nus.edu.sg/news/2021-nistchallenge/)
 
+- Second place in the [2021 NIST DeID2 - A Better Meter Stick for Differential Privacy](https://www.herox.com/bettermeterstick/updates)
+
 - Third place in the [2018 NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/team-privbayes).\
 Media: [NUS SoC](https://www.comp.nus.edu.sg/news/archives/y2019/2019-nist-differential-privacy-synthetic-data-challenge/)
-
-- Second place in the [2021 NIST DeID2 - A Better Meter Stick for Differential Privacy](https://www.herox.com/bettermeterstick/updates)
