@@ -20,6 +20,7 @@ Publications
 *CGM: An Enhanced Mechanism for Streaming Data Collection with Local Differential Privacy.*\
 47th International Conference on Very Large Data Bases (VLDB), 2021.
 [pdf](http://vldb.org/pvldb/vol14/p2258-bao.pdf)
+[technical report](http://academicpages.github.io/files/p2258-bao-technical.pdf)
 <!-- <a href="http://vldb.org/pvldb/vol14/p2258-bao.pdf">link</a> -->
 <!-- (Acceptance rate: 23%) -->
 
