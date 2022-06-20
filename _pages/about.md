@@ -34,6 +34,19 @@ Journal of Privacy and Confidentiality (JPC), 2021, 11(3).
 48th International Conference on Very Large Data Bases (VLDB), 2022, to appear.
 <!-- <a href="https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723">link</a> -->
 
+Experience
+======
+* Summer 2017: Student Intern
+  * The Chinese University of Hong Kong
+  * Implementing hashing algorithms for similarity search under distributed systems.
+  * Supervisor: Professor James Cheng
+
+* Summer 2016: Student Intern
+  * The Chinese University of Hong Kong
+  * Implementing dimensionality reduction algorithms under distributed systems.
+  * Supervisor: Professor James Cheng
+
+
 Awards
 ------
 - NUS School of Computing Research Achievement Award, 2021.
@@ -45,3 +58,13 @@ Media: [NUS SoC](https://www.comp.nus.edu.sg/news/2021-nistchallenge/)
 Media: [NUS SoC](https://www.comp.nus.edu.sg/news/archives/y2019/2019-nist-differential-privacy-synthetic-data-challenge/)
 
 - Second place in the [2021 NIST DeID2 - A Better Meter Stick for Differential Privacy](https://www.herox.com/bettermeterstick/updates)
+
+- Dean's List in 2015/16, 16/17, 17/18 by CUHK
+
+- Cheng Foundation Scholarships, Engineering Faculty Alumni Association Scholarships, ELITE Scholarships, George Lam Tse Cheung Scholarships by CUHK
+
+<!-- - ELITE Scholarships by CUHK.
+
+- Engineering Faculty Alumni Association Scholarships by CUHK.
+
+- George Lam Tse Cheung Scholarships, awarded by Lee Woo Sing College, CUHK. -->
