@@ -50,7 +50,7 @@ Experience
 
 
 Awards
-------
+======
 - NUS School of Computing Research Achievement Award, 2021.
 
 - First place in the [2020 NIST Differential Privacy Temporal Map Challenge](https://www.nist.gov/ctl/pscr/open-innovation-prize-challenges/current-and-upcoming-prize-challenges/2020-differential).\
