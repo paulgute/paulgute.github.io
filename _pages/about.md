@@ -61,10 +61,6 @@ Media: [NUS SoC](https://www.comp.nus.edu.sg/news/archives/y2019/2019-nist-diffe
 
 - Second place in the [2021 NIST DeID2 - A Better Meter Stick for Differential Privacy](https://www.herox.com/bettermeterstick/updates)
 
-
-
-- Second place in the [2021 NIST DeID2 - A Better Meter Stick for Differential Privacy](https://www.herox.com/bettermeterstick/updates)
-
 - Dean's List in 2015/16, 16/17, 17/18 by CUHK
 
 - Cheng Foundation Scholarships, Engineering Faculty Alumni Association Scholarships, ELITE Scholarships, George Lam Tse Cheung Scholarships by CUHK
