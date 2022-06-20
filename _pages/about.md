@@ -16,23 +16,25 @@ Privacy-preserving data analysis
 
 Publications
 ======
-- **Ergute Bao**, Yin Yang, Xiaokui Xiao, and Bolin Ding.\
-*CGM: An Enhanced Mechanism for Streaming Data Collection with Local Differential Privacy.*\
-47th International Conference on Very Large Data Bases (VLDB), 2021.
-[pdf](http://vldb.org/pvldb/vol14/p2258-bao.pdf)
-<!-- <a href="http://vldb.org/pvldb/vol14/p2258-bao.pdf">link</a> -->
-<!-- (Acceptance rate: 23%) -->
-
+- **Ergute Bao**, Yizheng Zhu, Xiaokui Xiao, Yin Yang, Beng Chin Ooi, Benjamin Hong Meng Tan, Khin Mi Mi Aung.\
+*Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Differential Privacy.*\
+48th International Conference on Very Large Data Bases (VLDB), 2022, to appear.
+<!-- <a href="https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723">link</a> -->
 
 - **Ergute Bao**, Xiaokui Xiao, Jun Zhao, Dongping Zhang and Bolin Ding.\
 *Synthetic Data Generation with Differential Privacy via Bayesian Networks.*\
 Journal of Privacy and Confidentiality (JPC), 2021, 11(3).
 [pdf](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723)
 
-- **Ergute Bao**, Yizheng Zhu, Xiaokui Xiao, Yin Yang, Beng Chin Ooi, Benjamin Hong Meng Tan, Khin Mi Mi Aung.\
-*Skellam Mixture Mechanism: a Novel Approach to Federated Learning with Differential Privacy.*\
-48th International Conference on Very Large Data Bases (VLDB), 2022, to appear.
-<!-- <a href="https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723">link</a> -->
+- **Ergute Bao**, Yin Yang, Xiaokui Xiao, and Bolin Ding.\
+*CGM: An Enhanced Mechanism for Streaming Data Collection with Local Differential Privacy.*\
+47th International Conference on Very Large Data Bases (VLDB), 2021.
+[pdf](http://vldb.org/pvldb/vol14/p2258-bao.pdf)
+[technical report](https://paulgute.github.io//files/p2258-bao-technical.pdf)
+<!-- <a href="http://vldb.org/pvldb/vol14/p2258-bao.pdf">link</a> -->
+<!-- (Acceptance rate: 23%) -->
+
+
 
 Experience
 ======
@@ -56,6 +58,10 @@ Media: [NUS SoC](https://www.comp.nus.edu.sg/news/2021-nistchallenge/)
 
 - Third place in the [2018 NIST Differential Privacy Synthetic Data Challenge](https://www.nist.gov/ctl/pscr/team-privbayes).\
 Media: [NUS SoC](https://www.comp.nus.edu.sg/news/archives/y2019/2019-nist-differential-privacy-synthetic-data-challenge/)
+
+- Second place in the [2021 NIST DeID2 - A Better Meter Stick for Differential Privacy](https://www.herox.com/bettermeterstick/updates)
+
+
 
 - Second place in the [2021 NIST DeID2 - A Better Meter Stick for Differential Privacy](https://www.herox.com/bettermeterstick/updates)
 
