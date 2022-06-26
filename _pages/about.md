@@ -39,8 +39,8 @@ Journal of Privacy and Confidentiality (JPC), 2021, 11(3).
 Experience
 ======
 * Summer 2017, Summer 2016: Student Intern at CUHK
-  * Implementing hashing algorithms for similarity search under distributed systems.
-  * Implementing dimensionality reduction algorithms under distributed systems.
+  * Implementing hashing algorithms for similarity search and dimensionality reduction algorithms under distributed systems.
+  <!-- * Implementing dimensionality reduction algorithms under distributed systems. -->
   * Supervisor: Professor James Cheng
 
 <!-- * Summer 2016: Student Intern
