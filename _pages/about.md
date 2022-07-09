@@ -23,14 +23,12 @@ Publications
 <!-- <a href="https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723">link</a> -->
 
 - **Ergute Bao**, Xiaokui Xiao, Jun Zhao, Dongping Zhang and Bolin Ding.\
-*Synthetic Data Generation with Differential Privacy via Bayesian Networks.*\
+[*Synthetic Data Generation with Differential Privacy via Bayesian Networks.*](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723)\
 Journal of Privacy and Confidentiality (JPC), 2021, 11(3).
-[pdf](https://journalprivacyconfidentiality.org/index.php/jpc/article/download/776/723)
 
 - **Ergute Bao**, Yin Yang, Xiaokui Xiao, and Bolin Ding.\
-*CGM: An Enhanced Mechanism for Streaming Data Collection with Local Differential Privacy.*\
+[*CGM: An Enhanced Mechanism for Streaming Data Collection with Local Differential Privacy.*](http://vldb.org/pvldb/vol14/p2258-bao.pdf)\
 47th International Conference on Very Large Data Bases (VLDB), 2021.
-[pdf](http://vldb.org/pvldb/vol14/p2258-bao.pdf)
 [technical report](https://paulgute.github.io//files/p2258-bao-technical.pdf)
 <!-- <a href="http://vldb.org/pvldb/vol14/p2258-bao.pdf">link</a> -->
 <!-- (Acceptance rate: 23%) -->
