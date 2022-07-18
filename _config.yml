@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Bao Ergute"
-  avatar           : "images/profile.png"
+  avatar           : "https://paulgute.github.io//images/profile.png"
   bio              : "PhD candidate in National Univeristy of Singapore"
   location         : "Singapore"
   employer         :
